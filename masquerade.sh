@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 ##############################################################################
-# File:  port_farward.sh                                                     #
+# File:  masquerade.sh                                                     #
 # Date: 22/Sep/2017                                                          #
 # Author: Nandan Bharadwaj M R                                               #
 # SCRIPT TO ADD MASQUERADE RULE                                              #
